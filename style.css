@@ -1,0 +1,66 @@
+@font-face {
+    font-family: "HandvelticaNeue";
+    src: url("fontes/handvetica_neue/Handvetica\ Neue\ Regular\ Trial.ttf") format("truetype");
+}
+
+body {
+    background-image: url("imagens/quadriculado.jpeg");
+    background-position: center;
+}
+
+.caderno {
+    width: 800px;
+    min-height: 1000px;
+
+    background-image: url("imagens/notebook_page.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+    padding: 80px;
+    box-sizing: border-box;
+
+    margin: 50px auto;
+
+    font-family: "HandvelticaNeue", sans-serif;
+    filter: drop-shadow(4px 4px 4px black);
+}
+
+h1 {
+    padding-top: 130px;
+
+    text-align: center;
+    font-size: 55px;
+
+    color: darkgreen;
+}
+
+.indice {
+    text-align: center;
+}
+
+.h1-indice {
+    font-size: 32px;
+    color: black;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 20px 0;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+
+    transition: 0.2s;
+}
+
+a:hover {
+    color: green;
+    transform: translateX(5px);
+}
