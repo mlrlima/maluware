@@ -1,43 +1,115 @@
 <!DOCTYPE html>
 <html>
-  <head>
+<head>
     <link rel="stylesheet" href="style.css">
-    <meta charset="UTF-8" />
+    <meta charset="UTF-8">
     <title>Edits</title>
-  </head>
-  <body>
+</head>
+
+<body>
 
     <div class="principal">
+
+        <!-- LEFT SIDE -->
+
         <div class="titulo">
             <h1>Colagens</h1>
         </div>
-        
-        <div class="description">
-            <p>
-            Colagem digital amadora!!!
-            <br>
-            Não uso IA.
-            <br>
-            Pego imagens de todo canto da internet, mas principalmente do Pinterest e, antigamente, WeHeartIt (RIP)
-            </p>
-        </div>
-        <div class="description">
-            <p>
-            Eu não desenho nem crio imagens do zero, apenas modifico e faço colagem com elas. Ou seja, as imagens originais não são minhas!!! Créditos aos artistas originais.
+
+        <div class="ferramentas">
+            <h2>
+                Ferramentas<br>
+                que mais uso
+            </h2>
+
+            <p class="lista-ferramentas">
+                <a href="https://www.superimposeapp.com/" target="_blank">
+                    Superimpose
+                </a>,
+
+                <a href="https://picsart.com/" target="_blank">
+                    Picsart
+                </a>,
+
+                <a href="https://www.affinity.studio/" target="_blank">
+                    Affinity
+                </a>,
+
+                <a href="https://www.polarr.com/" target="_blank">
+                    Polarr
+                </a>
             </p>
         </div>
 
-        <div class="ferramentas">
-            <h2>Ferramentas<br>que mais uso</h2>
-            <p class="lista-ferramentas">
-                <a href="https://www.superimposeapp.com/">Superimpose</a>, 
-                <a href="https://picsart.com/">Picsart</a>, 
-                <a href="https://www.affinity.studio/">Affinity</a>, 
-                <a href="https://www.polarr.com/">Polarr</a>
+
+        <!-- RIGHT SIDE -->
+
+        <div class="description">
+            <p>
+                Colagem digital amadora!!!
+                <br>
+                Não uso IA.
+                <br>
+                Pego imagens de todo canto da internet,
+                mas principalmente do Pinterest e,
+                antigamente, WeHeartIt (RIP)
+            </p>
+        </div>
+
+        <div class="description">
+            <p>
+                Eu não desenho nem crio imagens do zero,
+                apenas modifico e faço colagem com elas.
+                Ou seja, as imagens originais não são minhas!!!
+                Créditos aos artistas originais.
             </p>
         </div>
 
     </div>
 
-  </body>
+
+    <!-- GALLERY -->
+
+    <section class="galeria-section">
+
+        <div class="galeria-controles">
+
+            <h2>Filtrar</h2>
+
+            <select id="ano">
+                <option value="todos">Todos os anos</option>
+            </select>
+
+            <input
+                type="text"
+                id="busca"
+                placeholder="Pesquisar..."
+            >
+
+        </div>
+
+
+        <div class="colagens">
+            <!-- JS puts the artworks here -->
+        </div>
+
+
+        <div class="paginacao">
+            <button id="anterior">
+                ←
+            </button>
+
+            <span id="pagina-atual"></span>
+
+            <button id="proximo">
+                →
+            </button>
+        </div>
+
+    </section>
+
+
+    <script src="script.js"></script>
+
+</body>
 </html>
