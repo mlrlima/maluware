@@ -373,6 +373,319 @@ MAR 2019
         dia: 6,
     },
 
+    {
+        imagem: "db/2019/marco/cartoons.png",
+        titulo: "",
+        tags: [],
+
+        ano: 2019,
+        mes: 3,
+        dia: 4,
+    },
+
+    {
+        imagem: "db/2019/marco/moodboard-one-last-time.png",
+        titulo: "Moodboard One Last Time",
+        tags: ["Ariana Grande",
+            "song: One Last Time - Ariana Grande",
+            "moodboard"
+        ],
+
+        ano: 2019,
+        mes: 3,
+        dia: 4,
+    },
+
+    {
+        imagem: "db/2019/marco/james-lily-harry-hp.png",
+        titulo: "",
+        tags: ["James Potter", "Lily Evans",
+            "Harry Potter"
+        ],
+
+        ano: 2019,
+        mes: 3,
+        dia: 2,
+    },
+
+/*
+FEB 2019
+*/
+
+    {
+        imagem: "db/2019/fevereiro/elizabeth-nnt.png",
+        titulo: "",
+        tags: ["Elizabeth Liones", "Nanatsu no Taizai"
+        ],
+
+        ano: 2019,
+        mes: 2,
+        dia: 28,
+    },
+
+    {
+        imagem: "db/2019/fevereiro/damn-these-rich-people.png",
+        titulo: "damn these rich people",
+        tags: ["Ouran Highschool host club"],
+
+        ano: 2019,
+        mes: 2,
+        dia: 26,
+    },
+
+    {
+        imagem: "db/2019/fevereiro/theme-colorido-ariana.png",
+        titulo: "",
+        tags: ["Ariana Grande",
+            "song: needy - Ariana Grande"
+        ],
+
+        ano: 2019,
+        mes: 2,
+        dia: 24,
+    },
+
+    {
+        imagem: "db/2019/fevereiro/theme-colorido-camila-mendes.png",
+        titulo: "",
+        tags: ["Camila Mendes"],
+
+        ano: 2019,
+        mes: 2,
+        dia: 22,
+    },
+
+    {
+        imagem: "db/2019/fevereiro/new-theme-colorido.png",
+        titulo: "new theme",
+        tags: ["new theme", "separator"],
+
+        ano: 2019,
+        mes: 2,
+        dia: 20,
+    },
+
+    {
+        imagem: "db/2019/fevereiro/selena-gomez.png",
+        titulo: "",
+        tags: ["Selena Gomez",
+            "song: Back to You - Selena Gomez"
+        ],
+
+        ano: 2019,
+        mes: 2,
+        dia: 14,
+    },
+
+    {
+        imagem: "db/2019/fevereiro/purple-girl-flowers.png",
+        titulo: "",
+        tags: [],
+
+        ano: 2019,
+        mes: 2,
+        dia: 12,
+    },
+
+    {
+        imagem: "db/2019/fevereiro/rose-blackpink-birthday.png",
+        titulo: "",
+        tags: ["Rose", "Blackpink"],
+
+        ano: 2019,
+        mes: 2,
+        dia: 10,
+    },
+
+    {
+        imagem: "db/2019/fevereiro/sorry-for-what-i-said-when-i-was-hungry.png",
+        titulo: "Sorry for what I said when I was hungry.",
+        tags: ["Malina Weissman"],
+
+        ano: 2019,
+        mes: 2,
+        dia: 8,
+    },
+
+    {
+        imagem: "db/2019/fevereiro/blue-violet-evergarden.png",
+        titulo: "",
+        tags: ["Violet Evergarden"],
+
+        ano: 2019,
+        mes: 2,
+        dia: 6,
+    },
+
+    {
+        imagem: "db/2019/fevereiro/complex-melanie.png",
+        titulo: "",
+        tags: ["Melanie Martinez",
+            "song: Alphabet Boy - Melanie Martinez",
+            "Complex"
+        ],
+
+        ano: 2019,
+        mes: 2,
+        dia: 4,
+    },
+
+    {
+        imagem: "db/2019/fevereiro/nnt.png",
+        titulo: "There's no reason why",
+        tags: ["Nanatsu no taizai",
+            "song: Seven Deadly Sins - MAN WITH A MISSION"
+        ],
+
+        ano: 2019,
+        mes: 2,
+        dia: 2,
+    },
+
+/*
+JAN 2019
+*/
+
+    {
+        imagem: "db/2019/janeiro/very-lovely-indeed.png",
+        titulo: "Very lovely indeed.",
+        tags: ["Violet Baudelaire", "Quigley Quagmire",
+            "Quiglet",
+            "A series of unfortunate events", 
+            "Desventuras em serie"
+        ],
+
+        ano: 2019,
+        mes: 1,
+        dia: 31,
+    },
+
+    {
+        imagem: "db/2019/janeiro/hikaru-kaoru.png",
+        titulo: "",
+        tags: ["Hikaru Hitachiin", "Kaoru Hitachiin",
+            "Ouran highschool host club"
+        ],
+
+        ano: 2019,
+        mes: 1,
+        dia: 29,
+    },
+
+    {
+        imagem: "db/2019/janeiro/melanie-crybaby.png",
+        titulo: "",
+        tags: ["Melanie Martinez",
+            "song: Cry Baby - Melanie Martinez",
+        ],
+
+        ano: 2019,
+        mes: 1,
+        dia: 27,
+    },
+
+    {
+        imagem: "db/2019/janeiro/clawdeen-mh.png",
+        titulo: "",
+        tags: ["Clawdeen Wolf",
+            "Monster High",
+        ],
+
+        ano: 2019,
+        mes: 1,
+        dia: 25,
+    },
+
+    {
+        imagem: "db/2019/janeiro/i-dunno-maybe-lord-voldemort.png",
+        titulo: "i dunno maybe... lord voldemort",
+        tags: ["Harry Potter"],
+
+        ano: 2019,
+        mes: 1,
+        dia: 23,
+    },
+
+    {
+        imagem: "db/2019/janeiro/i-dunno-maybe-lord-voldemort2.png",
+        titulo: "i dunno maybe... lord voldemort",
+        tags: ["Harry Potter"],
+
+        ano: 2019,
+        mes: 1,
+        dia: 23,
+    },
+
+    {
+        imagem: "db/2019/janeiro/pixel-blackpink.png",
+        titulo: "",
+        tags: ["Jisoo", "Jennie", "Lisa", "Rose",
+            "Blackpink",
+            "song: DDU-DU DDU-DU - Blackpink",
+        ],
+
+        ano: 2019,
+        mes: 1,
+        dia: 21,
+    },
+
+    {
+        imagem: "db/2019/janeiro/green-ariana.png",
+        titulo: "",
+        tags: ["Ariana Grande",
+            "song: Tattooed Heart - Ariana Grande",
+        ],
+
+        ano: 2019,
+        mes: 1,
+        dia: 20,
+    },
+
+    {
+        imagem: "db/2019/janeiro/complex-7rings.png",
+        titulo: "",
+        tags: ["Ariana Grande",
+            "song: 7 rings - Ariana Grande",
+            "Complex"
+        ],
+
+        ano: 2019,
+        mes: 1,
+        dia: 19,
+    },
+
+    {
+        imagem: "db/2019/janeiro/remake-ariana.png",
+        titulo: "",
+        tags: ["Ariana Grande",
+            "song: Into You - Ariana Grande",
+        ],
+
+        ano: 2019,
+        mes: 1,
+        dia: 17,
+    },
+
+    {
+        imagem: "db/2019/janeiro/heart.png",
+        titulo: "",
+        tags: [],
+
+        ano: 2019,
+        mes: 1,
+        dia: 15,
+    },
+
+    {
+        imagem: "db/2019/janeiro/complex-alexa-katie.png",
+        titulo: "You make me feel so good",
+        tags: ["Alexa and Katie"],
+
+        ano: 2019,
+        mes: 1,
+        dia: 13,
+    },
+
 /*
 AUG 2018
 */
